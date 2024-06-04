@@ -7,7 +7,8 @@
 
 ## Status do Projeto
 
-- Concluído
+Não totalmente concluído
+Falta a pasta node_modules que não consegui passar
 
 ## :hammer: Funcionalidades do projeto
 
